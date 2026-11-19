@@ -42,6 +42,17 @@ color: white;
 border-radius: 4px;
 background-color:black
 }
+.side-bar{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background-color: blueviolet;
+    /* padding-left: ; */
+    position: sticky;
+    left: 0;
+    z-index: 0;
+}
 .main-text{
     text-align: center;  
     margin: 20px;
