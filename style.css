@@ -48,7 +48,7 @@ background-color:black
     justify-content: left;
     align-items: center;
     background-color: blueviolet;
-    /* padding-left: ; */
+    padding: 15px 30px;
     position: sticky;
     left: 0;
     z-index: 0;
